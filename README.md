@@ -4,13 +4,13 @@ Number Guessing Game is a console-based number guessing game where the user can 
 
 ## Demonstration 
 ### Guess
-![guess-number](https://github.com/RaviRamchand/number-guessing-game/blob/main/pictures/Guess.png)
+![guess-number](pictures/Guess.png)
 
 ## ScoreBoard
-![score-board](https://github.com/RaviRamchand/number-guessing-game/blob/main/pictures/scoreboard.png)
+![score-board](pictures/scoreboard.png)
 
 ### Error
-![error](https://github.com/RaviRamchand/number-guessing-game/blob/main/pictures/Error.png)
+![error](pictures/Error.png)
 
 ### Exit
-![exit](https://github.com/RaviRamchand/number-guessing-game/blob/main/pictures/exit.png)
+![exit](pictures/exit.png)
